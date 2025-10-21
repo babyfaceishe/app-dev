@@ -9,6 +9,7 @@ Welcome to my repository! Here's my most favorite movie of all-time that I highl
 ---
 
 ## Favorite Movie
+![alt text](<img width="638" height="879" alt="image" src="https://github.com/user-attachments/assets/b1d0216c-ed3c-4e77-beed-261fb3e6c8d0" />)
 
 ### **Training Day** (2001)
 - **Genre**: Crime Thriller
